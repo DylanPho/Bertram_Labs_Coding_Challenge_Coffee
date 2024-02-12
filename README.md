@@ -31,6 +31,3 @@ This program helps you and your coworkers decide who should pay for coffee based
 # Language Software:
   - Python 3.12.1
   - Command-Line Interface
-
-# License
-  - MIT
