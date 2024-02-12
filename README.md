@@ -3,7 +3,7 @@
 This program helps you and your coworkers decide who should pay for coffee based on the coffee orders.
 
 ## How to Run:
-
+   > IDLE software was used to run code
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/DylanPho/Bertram_Labs_Coding_Challenge_Coffee.git
@@ -29,5 +29,5 @@ This program helps you and your coworkers decide who should pay for coffee based
   - **Single Payment:** Assuming that only one coworker will pay for all the coffee beverages ordered by the group, rather than splitting the payment among multiple coworkers.
 
 # Language Software:
-  - Python 3.12.1
+  - IDLE: Python 3.12.1
   - Command-Line Interface
